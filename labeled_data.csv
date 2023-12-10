@@ -1,0 +1,992 @@
+,Title,sentiment,sentiment_class,label_encoded
+0,Title,0.0,negative,0
+1,News,0.0,negative,0
+2,Feature,0.0,negative,0
+3,"50,000 women expecting in Gaza, 5,000 scheduled to give birth in November",0.0,negative,0
+4,Gaza women resort to period-delaying pills amid ongoing crisis,0.0,negative,0
+5,"Shaheed Noor Hossain, a beacon of democracy in Bangladesh",0.0,negative,0
+6,Cyclone Hamoon leaves long trail of destruction in Cox’s Bazaar,-0.05,negative,0
+7,Most Popular NewsPaper in the Bangladesh,0.55,positive,1
+8,Bangladesh,0.0,negative,0
+9,Investigative Stories,0.0,negative,0
+10,Asia,0.0,negative,0
+11,World,0.0,negative,0
+12,Another managed election will be disastrous,-0.7,negative,0
+13,The legacy that Prof Saleemul Huq left behind,-0.2,negative,0
+14,How long must we wait for CHT Accord implementation?,-0.05,negative,0
+15,"Pratapnagar union cursed by cyclones, erosion",0.0,negative,0
+16,"Girls are doing great in HSC, but what about the boys?",0.8,positive,1
+17,"Give workers what they are due, regardless of EU concerns",-0.125,negative,0
+18,Overhaul the Cyber Security Agency to protect data,0.0,negative,0
+19,Make room for freshers in JU halls,0.0,negative,0
+20,Why can’t we contain child marriage?,0.0,negative,0
+21,The human toll of political expediency,0.0,negative,0
+22,Failed response to dengue and air pollution is no coincidence,-0.5,negative,0
+23,Electoral lip service cannot hide ugly truths,-0.7,negative,0
+24,Anomalies galore in BTCL 5G project,0.0,negative,0
+25,A flawed law is easy to exploit,-0.033333333333333326,negative,0
+26,A legal but illegitimate election will not serve the people,0.2,positive,1
+27,Henry Kissinger’s influence on Bangladesh’s history,0.0,negative,0
+28,Column by Mahfuz Anam: Is Awami League heading towards a Pyrrhic victory?,0.0,negative,0
+29,Is human civilisation at an inflection point?,0.0,negative,0
+30,"COP28 is an opportunity, if we all play our part",0.0,negative,0
+31,Our shared commitment to Rohingya refugees,0.0,negative,0
+32,Remembering Annisul Huq: The man behind the public persona,-0.2,negative,0
+33,India's G20 Presidency and the dawn of a new multilateralism,0.13636363636363635,negative,0
+34,How did the U.S. and Bangladesh come to be at the same negotiating table on climate change?,0.0,negative,0
+35,The mountains and hills of South Asia’s languages and dialects,0.0,negative,0
+36,"Bengal’s Fishermen: Through War, Famine and Partition",0.0,negative,0
+37,The night of unspeakable horror: A survivor’s account,0.0,negative,0
+38,"Understanding the maverick politician, AK Fazlul Huq",0.0,negative,0
+39,Re-discovering the goddess in medieval bengali poetry,0.0,negative,0
+40,Dutch perspectives on early-modern Bengal,0.0,negative,0
+41,The Weeping King: How Hindustani Music flourished in colonial Bengal,0.0,negative,0
+42,When will the government learn from past dengue outbreaks?,-0.25,negative,0
+43,Install fire-escape facilities in every building,0.0,negative,0
+44,We need more breastfeeding corners,0.5,positive,1
+45,Climate change will further widen the class divide,0.0,negative,0
+46,Who will listen to the woes of trainee doctors?,0.0,negative,0
+47,Concern about widespread gas leaks,0.0,negative,0
+48,Plug the brain drain,0.0,negative,0
+49,Railway passengers need comfortable seating arrangement,0.4,positive,1
+50,Tackling the causes behind fire incidents,-0.4,negative,0
+51,Our reality versus government's narrative,0.0,negative,0
+52,Poor policy and market management have caused price hikes,-0.4,negative,0
+53,"Sued under DSA, woman dies in Rab custody",0.0,negative,0
+54,Have we been able to establish a state different from Pakistan?,0.25,positive,1
+55,"Brig Gain Shaheed Mantra Khandak, Pusk (Rate)",0.0,negative,0
+56,"Citizens, elections, democracy: The Bangladeshi conundrum",0.0,negative,0
+57,What Bangladesh and UK can achieve through COP28,0.0,negative,0
+58,The need for global unity for the Palestinian cause,0.0,negative,0
+59,Smart cybersecurity for a smarter nation,0.21428571428571427,positive,1
+60,Are tides turning in Myanmar's civil war?,0.0,negative,0
+61,Rohingya repatriation: Can we ever find a viable scheme?,0.0,negative,0
+62,Our rising foreign debt and financial worries,-0.0625,negative,0
+63,"A blatant, disgraceful act of discrimination",-0.5,negative,0
+64,"When youngsters shun politics, the nation should be worried",0.0,negative,0
+65,Making workplace safe for construction workers,0.5,positive,1
+66,BMW i7 launched in Bangladesh,0.0,negative,0
+67,SUST students develop wireless charging electric vehicle,0.0,negative,0
+68,"The Xiaomi car is real, and BAIC is making it",0.2,positive,1
+69,Kia Carens: The Captain's Chairs are the new first class,0.19318181818181818,negative,0
+70,From mild to wild: converting an Impreza into a WRX STi,0.21666666666666667,positive,1
+71,Glanza V: the hot hatch from the late 90s,-0.024999999999999994,negative,0
+72,A complete list of all the cars featured in Fast X,0.15000000000000002,negative,0
+73,Conquering the wild: 10 classic off-road vehicles,0.13333333333333333,negative,0
+74,Newly refreshed BMW 5 series launched,0.13636363636363635,negative,0
+75,A love letter to the Honda S2000,0.5,positive,1
+76,1995 Toyota EP82 starlet GT,0.0,negative,0
+77,Hot Wheels - The design evolution,0.25,positive,1
+78,'Boot-ylicious' scale model meet - Dhaka Motor Show 2018,0.0,negative,0
+79,The twin cam dreams,0.0,negative,0
+80,Meet the locally modded Toyota Altezza,0.0,negative,0
+81,Jeeps in the wilderness,0.0,negative,0
+82,Meet the resto-modded Toyota Corolla AE9X,0.0,negative,0
+83,2023 Honda BR-V: Simple gets the job done,0.0,negative,0
+84,Hako-Rolla,0.0,negative,0
+85,A weekend with the GR Yaris,0.0,negative,0
+86,Avik Anwar 3rd in Gulf ProCar Round 2; dedicates win to Palestine,0.20000000000000004,positive,1
+87,Avik Anwar secures double win in Round 1 of Gulf Pro Car Championship,0.20000000000000004,positive,1
+88,Country’s first electric vehicle manufacturing plant underway in Chattogram,0.25,positive,1
+89,Caltex Lubricants partners with Bangladesh’s motorsports legend Avik Anwar,0.0,negative,0
+90,BMW shifts focus to 'Neue Klasse' to compete with Tesla,0.0,negative,0
+91,Avik Anwar triumphs in Malaysia Championship Series,0.0,negative,0
+92,Burnt shell of Ferrari sold at auction for Tk 21.8 crore,0.0,negative,0
+93,Lamborghini goes electric: Meet the new Lamborghini Lanzador EV,0.13636363636363635,negative,0
+94,Uber launches subscription package for moto drivers in Bangladesh,0.0,negative,0
+95,MG5 launches in Bangladesh,0.0,negative,0
+96,Avik Anwar conquers Malaysia Championship Series Round 4,-0.2,negative,0
+97,Mercedes-Benz buses now available in Bangladesh,0.4,positive,1
+98,Government implements carbon tax for multiple vehicle ownership,0.0,negative,0
+99,Roadblocks ahead for commercial vehicles: surging demand vs challenges,0.0,negative,0
+100,Carbon tax on vehicles and the possible aftermath,0.0,negative,0
+101,Uber launches air balloon service in Turkey,0.0,negative,0
+102,"Meet Cruise, the self-driving ride-sharing service",0.0,negative,0
+103,Toyota unveiled the new Land Cruiser,0.13636363636363635,negative,0
+104,2023 McLaren Artura: Revolutionising performance cars,0.0,negative,0
+105,Lewis Hamilton breaks record in Formula One racing,0.0,negative,0
+106,"Reeves Callaway, legendary Corvette builder, passes away",1.0,positive,1
+107,Tesla cars worth US$26k to be made in Germany: reports,0.3,positive,1
+108,Solid-state batteries: the future of the EV industry?,0.0,negative,0
+109,"India launches its first indigenous electric tractor, CSIR PRIMA ET11",0.25,positive,1
+110,India unveils BS-6 Stage-II 'electrified flex-fuel vehicle' prototype,0.0,negative,0
+111,Tesla faces trial over deaths caused by autopilot malfunction: reports,0.0,negative,0
+112,Here's why Electric Vehicles are better for the environment,0.5,positive,1
+113,Audi launches Electric Vehicle charging station in Tejgaon,0.0,negative,0
+114,Is Dhaka ready to embrace Electric Vehicles?,0.2,positive,1
+115,Toyota unveils all-electric Land Cruiser concept,0.0,negative,0
+116,Decoding the EV craze: Are they just a hype?,0.0,negative,0
+117,Car modification 101: What to know before revamping your ride,0.0,negative,0
+118,Green Delta Capital secures sustainability bond for Runner Automobiles,-0.2,negative,0
+119,The Land Cruiser 70 returns,0.0,negative,0
+120,Essential tips for driving through waterlogged roads in Dhaka,0.0,negative,0
+121,World Motorcycle Day 2023: Embrace the spirit of adventure,0.0,negative,0
+122,BMW 735i launched in Bangladesh,0.0,negative,0
+123,The unparalleled world of flagship vehicles,0.0,negative,0
+124,Turbocharged cars and the ever-lasting bad fuel problem,-0.6999999999999998,negative,0
+125,The iPhone 15 Pro's camera can be a true game changer,-0.025000000000000022,negative,0
+126,Embracing the inevitable,0.0,negative,0
+127,"So long, goodbye",-0.05,negative,0
+128,Samsung Galaxy S23 Ultra: The ultimate ultra,0.0,negative,0
+129,Every end marks a new beginning,0.13636363636363635,negative,0
+130,Huawei completes 25 years in Bangladesh,0.0,negative,0
+131,Safeguarding workspaces from escalating cyber attacks: A comprehensive guide,0.0,negative,0
+132,The setting sun,0.0,negative,0
+133,AI news presenters: What they mean for the future of newsroom,-0.15625,negative,0
+134,SophosEncrypt ransomware impersonates cybersecurity firm Sophos,-0.2,negative,0
+135,Facebook brings changes to its video streaming services,0.0,negative,0
+136,"Meta and Microsoft launch Llama 2, the next-generation Large Language Model",0.21428571428571427,positive,1
+137,Apple could soon bring out an iPhone that you can roll,0.0,negative,0
+138,What happens when our data gets leaked: Here's how concerned you should be,0.0,negative,0
+139,You can now use Google Bard in Bangla,0.0,negative,0
+140,China launches its own open-source operating system,0.6,positive,1
+141,A ‘better’ pill to swallow,0.5,positive,1
+142,Palak wants Elon Musk's Starlink internet in Bangladesh,0.2,positive,1
+143,Tata reportedly to become first ever Indian iPhone maker,0.25,positive,1
+144,IUT and BUET advance to final round of European Rover Challenge 2023,-0.06666666666666667,negative,0
+145,Indian TV channel introduces AI news anchor,0.0,negative,0
+146,Notorious BlackCat hackers steal over 170gb sensitive data from Krishi Bank,0.1,negative,0
+147,"Meet Rousseau Kazi, the Bangladeshi-born CEO and Co-Founder of the other 'Threads'",-0.125,negative,0
+148,Twitter threatens Meta with lawsuit over hiring former employees,0.0,negative,0
+149,Infinix introduces Note 30 and Note 30 Pro in Bangladesh,0.0,negative,0
+150,TECNO launches CAMON 20 series in Bangladesh,0.0,negative,0
+151,"Unravelling the Journey of Abdullah Hil Rakib: Insights on Leadership, Sustainability, and the Future of Business",0.0,negative,0
+152,A Tale of Growth and Rejuvenation,0.0,negative,0
+153,Abdullah Hil Nakib on TEAM Group’s Secret to Success,-0.05000000000000002,negative,0
+154,In Pursuit of Excellence: The Inspiring Journey of Team Group,0.5,positive,1
+155,Exploring Team Group’s RMG Enterprises,0.0,negative,0
+156,Team Group: Leading the Way Towards a Greener Future,0.0,negative,0
+157,Nidle by Intellier: Transforming Bangladesh’s RMG Industry,0.0,negative,0
+158,A purr-fect farewell: Closure of Capawcino Cat Café,0.0,negative,0
+159,Jane Dipika Garrett: Breaking barriers in Miss Universe 2023,0.0,negative,0
+160,Dos and don'ts: A guide to safety during earthquake,0.0,negative,0
+161,Bidya Sinha Saha Mim’s timeless beauty captured in latest photoshoot,0.5,positive,1
+162,No Makeup Look for Weddings: Yay or Nay?,0.0,negative,0
+163,Fresh on the shelves: Buying organic products,0.3,positive,1
+164,Pizza recipes with unique twists to keep your tummy on edge,0.375,positive,1
+165,Married life step one! Bedroom decorating ideas you will both like,0.3125,positive,1
+166,"Being a woman is just such a war, forever: Billie Eilish",0.0,negative,0
+167,"A new thriller arrives in ‘Shyama Kabya’, stars hopeful",0.13636363636363635,negative,0
+168,Tisha and Farooki’s daughter debuts in ‘Autobigraphy’s’ song ‘Jochonar Phool’,0.0,negative,0
+169,I aspire to become an actor for whom directors will eagerly line up: Ashna Habib Bhabna,0.0,negative,0
+170,You did not know these Bengali adaptations of popular films existed,0.6,positive,1
+171,I am called ‘Dhallywood Queen’ because of Shakib Khan: Apu Biswas,0.0,negative,0
+172,‘Mike’ bags Best Feature Film Award at Singapore,1.0,positive,1
+173,‘Neel Joler Kabbyo’ trailer to release this week,0.0,negative,0
+174,The team that made ‘Ashomvob’ possible,0.0,negative,0
+175,What makes Karnival stand out?,0.0,negative,0
+176,The grandest OTT extravaganza hosts its second iteration,0.0,negative,0
+177,Bobby electrifies,0.0,negative,0
+178,Xefer remastered,0.0,negative,0
+179,Jessia in action,0.1,negative,0
+180,The enigmatic Tawsif,0.1,negative,0
+181,Jumping from billboards to OTT,0.0,negative,0
+182,Rohingyas highly exposed to HIV,0.16,negative,0
+183,Dengue fever: Country sees 7 more deaths; 877 hospitalised,0.5,positive,1
+184,More and more people now flocking to OMS trucks,0.5,positive,1
+185,Global partners cheer progress towards elimination and underline challenges,0.0,negative,0
+186,Alarming rates of suicidal behaviours among Nepalese MSM: urgent need for tailored support,-0.1,negative,0
+187,Dengue claims five more lives,0.5,positive,1
+188,Management of diabetes-related foot infections,0.0,negative,0
+189,Bullying of children in mainstream education,0.0,negative,0
+190,Managers rejoice as study shows Artificial Intelligence can’t replace Genuine Idiocy™,-0.09999999999999998,negative,0
+191,Bureaucracy marathon receives great response,0.8,positive,1
+192,‘Digbaji’ celebrity Jaded Khan tumbles head over heels into mathematics,0.0,negative,0
+193,Economic success now defined by how often men change the colour of their car,0.25,positive,1
+194,‘It’s disgraceful that rain did not fall in time’,0.0,negative,0
+195,Boss shocked that employees not happy about being paid 5 peanuts instead of 4,-0.55,negative,0
+196,5 things to do when there is a Bangladesh match on TV,0.0,negative,0
+197,Celebrities of Bangladesh offering support,0.0,negative,0
+198,Plant Easy organises “Plantifying Schools” at Shishu Kallyan Primary School,0.4166666666666667,positive,1
+199,A university student’s guide to time management,0.0,negative,0
+200,What is hobby fatigue and how to deal with it,0.0,negative,0
+201,Haileybury Bhaluka – a unique educational experience,0.3125,positive,1
+202,PPECCC Dhaka 2023 explores climate change as an opportunity for investment and employment,0.0,negative,0
+203,Leisure time is not wasted time,0.1,negative,0
+204,Bangladeshi activists join Global Climate Strike,0.0,negative,0
+205,Making the jump from O level to A level,0.0,negative,0
+206,JK Rowling’s 'The Running Grave': A souring tale that clumsily rolls downhill,-0.3,negative,0
+207,Growing up with Mark Twain,0.0,negative,0
+208,"On the Palestine Question: Roald Dahl, Harold Pinter, and others",0.0,negative,0
+209,Keep your secrets close and your tech support closer,0.0,negative,0
+210,There's a Jo March in every woman,0.0,negative,0
+211,Disempowering voices of propaganda: The BDS movement in books,-0.1,negative,0
+212,Nobody writes like Arundhati Roy,0.0,negative,0
+213,Despair and death in ‘Truth or Dare’,0.0,negative,0
+214,Scaling Mount Saramati,0.0,negative,0
+215,Trek to Sandakphu,0.0,negative,0
+216,Tanguar Haor a magical place worth revisiting,0.4,positive,1
+217,"A heaven with lush green, rolling hills",-0.05,negative,0
+218,A trip to Kohima and Khonoma,0.0,negative,0
+219,A link to a bygone era,0.0,negative,0
+220,Yunnan province of China,0.0,negative,0
+221,Kyrgyzstan: A tale of an eagle and a bond,0.0,negative,0
+222,Hill destroyers go unpunished,0.0,negative,0
+223,Gill nets banned but abundant,0.6,positive,1
+224,"In Cumilla, canals run black",-0.16666666666666666,negative,0
+225,Eden Mohila College: 150 years of history and glory,0.0,negative,0
+226,The forgotten people of Gaibandha shoals,0.0,negative,0
+227,From Chatlapur Tea Garden to Gothenburg: A journalistic odyssey,0.0,negative,0
+228,Bangabandhu Tunnel Dream becomes reality,0.0,negative,0
+229,"‘It was technically complex, challenging’",0.1,negative,0
+230,Exploring river heritage of Dhaka,0.0,negative,0
+231,Revival of sculpture as an art form,0.0,negative,0
+232,Exploring the street breakfast culture,0.0,negative,0
+233,Dhaka's lost bridges,0.0,negative,0
+234,Bangabazar: Rising from the ashes,0.0,negative,0
+235,The Wonder of Saat Gombuj Masjid,0.0,negative,0
+236,Neighbourhood Handymen the fixer you need,0.0,negative,0
+237,A taste of Mohammadpur,0.0,negative,0
+238,Beyond borders: Expatriates’ testimonies on Dhaka,0.0,negative,0
+239,Tradition meets innovation in the spicy world of fuchka,0.0,negative,0
+240,Sumon Bhai’s Dilbahar: The new special shorbot of Old Dhaka,0.19783549783549784,negative,0
+241,Dhaka and its Mughal mosques,0.0,negative,0
+242,Breaking stereotypes: A male nurse in the city,0.0,negative,0
+243,Answer: So Motijheel In 5 minutes: Dhaka Metro Revoluctiones Commuting,0.0,negative,0
+244,Katrina Wild’s exotic tea adventures,0.3,positive,1
+245,A forgotten history: The Prince who dethroned Dhaka as a capital,0.0,negative,0
+246,"Eco-chic experience at Ajo Idea Space, Gulshan",0.0,negative,0
+247,Lighting up Dhaka: The first electric lights in our city!,0.3125,positive,1
+248,"Six companies, three young individuals to be honoured",0.1,negative,0
+249,COP28: Over 110 nations commit to triple renewable energy,0.0,negative,0
+250,Human rights day: AL to hold rally Dec 10,0.0,negative,0
+251,AL presidium member Maya's son dies,0.0,negative,0
+252,"Marufa, Rabeya included in WIPL auction",0.0,negative,0
+253,A look back at ‘Gohine Shobdo’,0.0,negative,0
+254,Bonus for ‘big achievement’ awaits Shanto and Co,0.0,negative,0
+255,Imran Khan's party elects new chairman ahead of Pakistan's election,0.13636363636363635,negative,0
+256,27 AL MPs vying for polls as independent candidates,0.0,negative,0
+257,Truck torched in Khagrachhari: Injured helper dies at burn institute after 6 days,0.0,negative,0
+258,2 deputy commissioners among 3 transferred ahead of polls,0.0,negative,0
+259,Chanchal Chowdhury starrer 'Padatik' headed to IFFK,0.0,negative,0
+260,Séance In The 70's,0.0,negative,0
+261,Oil prices fall more than 2% as investors skeptical of OPEC+ cuts,0.0,negative,0
+262,Taijul overwhelmed with joy after NZ win,0.8,positive,1
+263,"Chattogram-11: AL’s MA Latif's annual income dips, movable assets double",0.0,negative,0
+264,Bangladesh Sustainability Excellence Awards today,0.0,negative,0
+265,Sunil Grover to reunite with Kapil Sharma for Netflix comedy show,0.0,negative,0
+266,Bayern Munich vs Union Berlin postponed due to snow,-0.125,negative,0
+267,"12th national election: 2,713 aspirants to vie for 300 seats",0.0,negative,0
+268,Pakistan ex-PM Imran Khan replaced as party head,0.0,negative,0
+269,Tackling poll-related violence EC’s responsibility: Quader,0.0,negative,0
+270,"2.60 lakh yaba pills, 1.05 kg crystal meth seized in Cox’s Bazar",0.0,negative,0
+271,"121/B, East Basabo",0.0,negative,0
+272,Many more Rohingyas might die if actions not taken: UNHCR,0.5,positive,1
+273,Southee refuses to blame World Cup fatigue for Sylhet defeat,0.0,negative,0
+274,"Earthquake triggers panic, no damage reported",0.0,negative,0
+275,‘Job is only half-done’: Shanto not bothered by outside noise,0.0,negative,0
+276,'Channel i Band Fest 2023' held on a smaller scale due to elections,-0.0625,negative,0
+277,"Ranveer Singh calls ‘Don 3’ casting criticism ‘natural’, compares reaction to Craig’s Bond casting",0.1,negative,0
+278,Gaza death toll rises to 240: health ministry,0.0,negative,0
+279,‘Home Alone’ stars Macaulay and Catherine's tearful reunion,0.0,negative,0
+280,At least 76 RMG workers injured in Cumilla,-0.3,negative,0
+281,26th anniversary of CHT Peace Treaty today,0.0,negative,0
+282,KIFF 2024 to celebrate cinema with lineup of 219 films from 39 countries,0.0,negative,0
+283,Messi calls MLS ‘a minor league’,-0.05,negative,0
+284,Dhaka-Tangail rail link fully restored after eight hours,0.0,negative,0
+285,How to turn on earthquake alerts on your phone,0.0,negative,0
+286,Arsenal plot long stay at summit,-0.05,negative,0
+287,Taylor Swift to earn more than $100 million from Spotify alone this year,0.5,positive,1
+288,The 96th Academy Awards live telecast to start an hour early,0.11818181818181818,negative,0
+289,Pledges made so far at the COP28 climate talks,0.1,negative,0
+290,139 Rohingya refugees land in Indonesia: officials,0.0,negative,0
+291,An interview with Sakib Jamal: Forbes 30 under 30 2024,0.0,negative,0
+292,Ranbir Kapoor’s ‘Animal’ leaked online,0.0,negative,0
+293,Contenders to learn Euro 2024 fate tonight,0.0,negative,0
+294,The Weeknd donates $2.5 million to Gaza,0.0,negative,0
+295,Dhaka’s air 3rd most polluted in the world this morning,0.25,positive,1
+296,"Magnitude 5.6 earthquake jolts Dhaka, other parts of Bangladesh",-0.125,negative,0
+297,Bangladesh complete historic Test win over New Zealand,0.2590909090909091,positive,1
+298,South Korea launches first spy satellite with SpaceX,0.25,positive,1
+299,Renewed Gaza fighting stretches into second day,0.0,negative,0
+300,Messi leaves door open to 2026 World Cup,0.0,negative,0
+301,Teamwork outshines Tahura brace as Bangladesh sink Singapore,0.0,negative,0
+302,Taijul has been ready to lead spin attack for a while,0.2,positive,1
+303,Postecoglou bullish his plan will turn Tottenham into 'big club',0.0,negative,0
+304,"Fortress Anfield a 'nightmare' for opponents, says Klopp",0.0,negative,0
+305,PCB appoint Salman Butt as consultant to chief selector,0.0,negative,0
+306,Washington welcomes Dhaka's zero-tolerance policy on terrorism,0.0,negative,0
+307,Singing her way to national glory,0.0,negative,0
+308,Anisuzzaman passes away,0.0,negative,0
+309,Ctg-4 MP steps aside from election race,0.0,negative,0
+310,Do not allow the soldiers to kill my doll! : SIX,0.0,negative,0
+311,"They raise their fists. Inside, I fall asleep to the sound of rain",0.4,positive,1
+312,‘Hell on Earth has returned to Gaza’,0.0,negative,0
+313,Philippines builds monitoring station on island,0.0,negative,0
+314,Women’s Participation in Renewable Energy Challenges and Opportunities,0.0,negative,0
+315,Israeli army issues Gaza evacuation zone map,0.0,negative,0
+316,Russia advancing on all fronts in Ukraine,0.0,negative,0
+317,‘We take this very seriously’,-0.43333333333333335,negative,0
+318,"US, partners target North Korea with sanctions",0.0,negative,0
+319,Trump gag order reimposed,0.0,negative,0
+320,7 killed in attack on Shia clerics,-0.2,negative,0
+321,Dr Razia first Bangladeshi to receive The Hague Award,0.25,positive,1
+322,"Dengue Outbreak: Nov saw 274 deaths, over 40,000 cases",0.0,negative,0
+323,Full implementation remains elusive,0.35,positive,1
+324,Legal tangles still unresolved,0.2,positive,1
+325,244 aspirants for 20 Dhaka seats,0.0,negative,0
+326,Patients bear the brunt of blockades,0.0,negative,0
+327,School playground now a grazing field,0.0,negative,0
+328,Patients suffer for damaged dialysis machines,0.0,negative,0
+329,"Mother, child die as truck hits auto-rickshaw",0.0,negative,0
+330,JP leader submits nomination from Trinamool BNP,0.0,negative,0
+331,"Once a vibrant palace, now in ruins",0.008333333333333331,negative,0
+332,No one can stop election train: Quader,0.0,negative,0
+333,‘Country to see a staged election’,0.0,negative,0
+334,‘AL will claim victory by staging drama’,0.0,negative,0
+335,Courtesy meeting or forced detention?,-0.30000000000000004,negative,0
+336,Seven still missing after US Osprey crash off Japan,-0.2,negative,0
+337,Road crashes kill two in Gopalganj,0.0,negative,0
+338,"Two men murdered in Joypurhat, Dinajpur",0.0,negative,0
+339,Post-Coup Myanmar: Ethnic minority fighters clash with military on major trade route,-0.018750000000000003,negative,0
+340,109 reported killed as Israeli strikes resume in Gaza,-0.2,negative,0
+341,‘Calm yet fierce determination’,0.30000000000000004,positive,1
+342,"UN chief, COP28 president clash over fossil fuels’ future",0.0,negative,0
+343,Climate Change: Put victims in charge of fighting impact,0.0,negative,0
+344,Excitement as train service from Cox’s Bazar starts,0.0,negative,0
+345,Bangladeshi Journo’s Abduction: Malaysian cop among 4 charged,0.0,negative,0
+346,Independents all-time high,0.16,negative,0
+347,Tigers on the verge of huge win,0.6000000000000001,positive,1
+348,AL’s Independent Candidates: Party to decide their fate on a case-by-case basis,0.0,negative,0
+349,BNP averts split despite AL efforts,0.0,negative,0
+350,"Transfer all UNOs, OCs in phases",0.0,negative,0
+351,"UNGA president hopes polls can be certified free, fair",0.55,positive,1
+352,Beyond the classroom: A deep dive into student leadership,0.0,negative,0
+353,Scott Pilgrim Takes Off: The highly anticipated sequel that no one anticipated,0.16,negative,0
+354,The alternatives to coaching in A levels,0.0,negative,0
+355,The way to a productive gap year,0.0,negative,0
+356,My Adventures with Superman: The Man of Steel with a slice-of-life flavour,0.0,negative,0
+357,Five presentation tips for school students,0.0,negative,0
+358,Fog beneath the winter skyline,0.0,negative,0
+359,Propelling tomorrow’s innovators: Carnegie Mellon’s world-leading Robotics program comes to ISD,0.0,negative,0
+360,Did You Know? - November,0.0,negative,0
+361,Is being part of a school club worth it?,0.3,positive,1
+362,How necessary is it to teach programming in schools?,0.0,negative,0
+363,Why we should include philosophy in our curriculum,0.0,negative,0
+364,What should modern schools look like?,0.2,positive,1
+365,The trade-off between school and private,0.0,negative,0
+366,Why school newspapers should be encouraged,0.0,negative,0
+367,Animated horror movies to enjoy with your friends,0.4,positive,1
+368,Terrifying yet comforting: What makes Spirited Away a must-watch?,-0.25,negative,0
+369,Hosting Pokémon battles with your friends,0.0,negative,0
+370,Is Your Lie In April as good as remembered?,0.7,positive,1
+371,The Wind Rises: A heart-wrenching tale of love and war,0.5,positive,1
+372,Japanese musicians to check out if you're into musical storytelling,0.0,negative,0
+373,The SATs: Explained,0.0,negative,0
+374,Climate Crisis: Explained,0.0,negative,0
+375,What you need to know about inflation,0.0,negative,0
+376,"Jalebi, Saree, Samosa: When did we become too good for Bangla?",0.7,positive,1
+377,Menstruating for the first time,0.25,positive,1
+378,What They Don’t Tell You About the Statement of Purpose,0.0,negative,0
+379,What is this morbid curiosity?,0.0,negative,0
+380,THE DAWN OF THE DESHI SIX,0.0,negative,0
+381,The After-chapter,0.0,negative,0
+382,My Home,0.0,negative,0
+383,Fathers and Daughters and Unmailed Letters,0.0,negative,0
+384,Parting,0.0,negative,0
+385,Intrusive,0.0,negative,0
+386,"If you don’t like reading, then comic books are for you",0.25,positive,1
+387,Getting into the habit of reading,0.0,negative,0
+388,Growing up surrounded by music,0.0,negative,0
+389,How photographing my life on a daily basis helps me,0.0,negative,0
+390,When you’re not good at your new hobby,-0.10681818181818181,negative,0
+391,Why Writers Write,0.0,negative,0
+392,Rekindling Old Hobbies,0.1,negative,0
+393,Custom-made keycaps conjured up by young keyboard enthusiast,0.1,negative,0
+394,Settling the debate,0.0,negative,0
+395,Team Bangladesh secures 3 gold medals in IMDO 2023,0.0,negative,0
+396,14-year-old makes Marvel props at home,0.0,negative,0
+397,Bangladesh wins 1 silver and 3 bronze medals at European Girls' Mathematical Olympiad 2023,0.09999999999999999,negative,0
+398,Bangladeshi school students bag first prize at NASA Space Settlement Contest 2023,0.25,positive,1
+399,4 photographers win UNHCR Nansen Refugee Award,0.8,positive,1
+400,"Weeklong art, photography exhibition kicks off in Dhaka",0.0,negative,0
+401,Apes of the East,0.0,negative,0
+402,Snapshots of history—Golam Mustafa meets Manzoor Alam Beg,0.0,negative,0
+403,Panihar Public Library: A heritage in ruins,-0.075,negative,0
+404,Experiencing architecture around us,0.0,negative,0
+405,What students can expect from a major in Architecture,0.0625,negative,0
+406,Van Gogh's self portrait found underneath one of his paintings Art,0.0,negative,0
+407,Architect Rafiq Azam wins Robert Mathew Life Time Achievement Award,0.3,positive,1
+408,15 years of iPhone: Evolution in photography,0.0,negative,0
+409,In conversation with Historian Perween Hasan,0.0,negative,0
+410,Durga Puja: 65ft Kumbhakarna with 501 idols in Khulna,0.0,negative,0
+411,Jheel Kutum Café in Hatirjheel Reemines a Burnt Memory,0.0,negative,0
+412,Sufi saint Khan Jahan Ali's work in Bengal,0.0,negative,0
+413,Irish author Paul Lynch wins 2023 Booker Prize,0.15,negative,0
+414,"Revisiting 'In the country of film, in the country of poetry'",0.0,negative,0
+415,The progressive depiction of women in ‘Devdas’,0.0,negative,0
+416,My scarlet incarnation,0.0,negative,0
+417,Discovering enlightenment and creativity at Dhaka Flow Festival,0.0,negative,0
+418,The Hermitage Residency: In Conversation with Arif Anwar and Julia Philips,0.0,negative,0
+419,"Malaysian cop suspended over arbitrary detention, torture of Bangladeshi journo",-0.1,negative,0
+420,"Survey on untimely return of 218 migrants: Deportation, not getting promised job key reasons",0.0,negative,0
+421,Banks to appreciate taka against US dollar,0.0,negative,0
+422,'Countries vocal on human rights often silent on migrant workers’ sufferings',0.0,negative,0
+423,Market has unofficial inter-bank exchange rates now: PRI,0.0,negative,0
+424,"Biman’s Dhaka, Chennai flight from Dec 16",0.0,negative,0
+425,"Passenger ‘Dies Mid-Flight’: Biman does not land, carries on for 9 hours",0.0,negative,0
+426,Jin Air keen to operate direct flights,0.1,negative,0
+427,Oman suspends new visas for Bangladeshis,0.13636363636363635,negative,0
+428,Rights worker writes to UN on Bangladeshi migrants’ dire situation in Malaysia,0.0,negative,0
+429,Bangladesh to send more workers to Libya,0.5,positive,1
+430,Forex reserves fall further to $20.89 billion,0.0,negative,0
+431,Reunited after 35 years,0.0,negative,0
+432,"Labour market expanding beyond Gulf, Southeast Asia",0.0,negative,0
+433,Airbus for Biman: Plane maker keen on MoU this month,0.0,negative,0
+434,4 Bangladeshis killed in Qatar fire,-0.2,negative,0
+435,Oman suspends visa for Bangladeshis,0.0,negative,0
+436,11.66 lakh women workers went abroad so far,0.1,negative,0
+437,Repatriation of illegal immigrants: Govt to sign SOP with UK,-0.5,negative,0
+438,Remittance hits four-month high,0.16,negative,0
+439,Bangladeshi dies after falling into machine in Malaysian factory,0.0,negative,0
+440,Bangladeshi missions asked to celebrate NRB Day in grand manner: Momen,0.5,positive,1
+441,Remittance hits 41-month low,0.0,negative,0
+442,First migrants in a week land on Italy's Lampedusa,0.25,positive,1
+443,Digital Transformation in Bangladesh’s Financial Industry 2023,0.0,negative,0
+444,Blender's Choice - The Daily Star OTT & Digital Content Awards 2022,0.0,negative,0
+445,The inauguration of South Asia’s first underwater tunnel,0.25,positive,1
+446,74th Anniversary of the Founding of the People’s Republic of China,0.0,negative,0
+447,Asiamoney Best Bank Awards 2023: Bangladesh,1.0,positive,1
+448,Climate Justice Idea Competition 2023,0.0,negative,0
+449,Celebrating One Year Of The Padma Bridge,0.0,negative,0
+450,125th Anniversary of Philippine Independence and Nationhood,0.0,negative,0
+451,Humans of Climate Change,0.0,negative,0
+452,Celebrating World Milk Day 2023,0.0,negative,0
+453,Navigating higher education abroad,0.25,positive,1
+454,Climate resilience through local empowerment,0.0,negative,0
+455,Invest in the future by focusing on education,0.0,negative,0
+456,Schools of excellence - Places for your children to thrive,0.0,negative,0
+457,Celebrating women transforming aquaculture in Bangladesh,0.0,negative,0
+458,Asia Money: Best Bank Awards 2022,1.0,positive,1
+459,Battle for Asian Supremacy - Asia Cup 2022,0.0,negative,0
+460,"Micro, Small, and Medium-Sized Enterprises Day 2022",-0.25,negative,0
+461,The Daily Star Plus on Padma Bridge,0.0,negative,0
+462,Unsung Women Nation Builders Awards 2022,0.0,negative,0
+463,Prioritise hygiene in light of coronavirus pandemic,0.4,positive,1
+464,B-SkillFUL: Shaping the Labour Market and Promoting Skills Development,0.0,negative,0
+465,Bloodbath on Road 32,0.0,negative,0
+466,Basking in the GLORY OF SUCCESS,0.3,positive,1
+467,Want to know Switzerland? Start by its cuisine,0.0,negative,0
+468,Discovering Switzerland and Bangladesh: Two different perspectives,0.0,negative,0
+469,Swiss companies have long standing investments in crucial sectors,-0.025,negative,0
+470,Making a difference in delivering public services,0.0,negative,0
+471,FOURTH OF JULY AND MAIN STREETS,0.08333333333333333,negative,0
+472,"3, 2, 1: Bangladesh is Taking Off",0.0,negative,0
+473,Peace and Tolerance: Challenges and Way Forward,0.0,negative,0
+474,Celebrating the French National Day with Bangladesh,0.0,negative,0
+475,Rethinking urban spaces: Dhaka and beyond,0.0,negative,0
+476,Dairy industry in Bangladesh: Prospects and roadblocks,0.0,negative,0
+477,Why we need to talk about mental health and menstruation,-0.1,negative,0
+478,DIGITAL TRANSFORMATION IN HIGHER EDUCATION - PRIVATE UNIVERSITY OF THE FUTURE,0.0625,negative,0
+479,Winning the fight against corrosion,0.5,positive,1
+480,What you should know about corrosion,0.0,negative,0
+481,7 years of war crimes trial,0.0,negative,0
+482,Private Universities And The Growth Of Higer Education,0.0,negative,0
+483,The State of the world's children 2016,0.0,negative,0
+484,24th Anniversary of The Daily Star (Part-1),0.0,negative,0
+485,24th Anniversary of The Daily Star (Part-2),0.0,negative,0
+486,24th Anniversary of The Daily Star (Part-3),0.0,negative,0
+487,23rd Anniversary 2014 - Challenges of Moving Forward,0.0,negative,0
+488,"23rd Anniversary 2014 - Economy, Investment and Business",0.0,negative,0
+489,"23rd Anniversary 2014-Governance, Rule of Law and security",0.0,negative,0
+490,65th Founding Anniversary of the Peoples Republic of China,0.0,negative,0
+491,Bangladesh Business Award 2013 DHL The Daily Star,0.0,negative,0
+492,Coats Bangladesh: Celebrating 25 Years Of Partnership,0.0,negative,0
+493,Energy Efficiency Improvement In Rice Parboiling Sector,0.0,negative,0
+494,International Conference on “The Great War and English Studies”,0.26666666666666666,positive,1
+495,"Study Abroad: right information, right decision",0.2857142857142857,positive,1
+496,World Telecommunication and Information Society Day 2014,0.0,negative,0
+497,The Daily Star Bangla,0.0,negative,0
+498,"On December 5, at the southern gate of Baitul Mukarram.Rally",0.0,negative,0
+499,Violation of Code of Conduct: Shamim Osman Mourning,0.0,negative,0
+500,Violation of Code of Conduct: Shamim Osman's votes for votes in the neighborhood,0.0,negative,0
+501,'Hello I'm SP guys' cheating arrest,-0.05,negative,0
+502,There are 120 women candidates across the country,0.0,negative,0
+503,Ranga nomination is valid announced after several hours of suspended,0.0,negative,0
+504,Awami League nomination is deprived of 20 parliamentarians independent candidate,0.0,negative,0
+505,Sunamganj and Mymensingh as the Deputy Commissioner of the Sunamganj and Mymensingh.,0.0,negative,0
+506,"Fire on Khagrachari, the death of the burnt helper after 5 days",0.0,negative,0
+507,The government could not implement the cyber security agency in 5 years of formation,0.0,negative,0
+508,Do not give the Internet connection to Starlink in Gaza without Israel approval,0.0,negative,0
+509,Metropolitan Secretary of Gazipur Jamaat,0.0,negative,0
+510,Pressing Facebook Like-comment button will not come victory: Nurul Haque Noor,0.0,negative,0
+511,Japa leader Rafiqul has submitted nominations from the grassroots BNP,0.0,negative,0
+512,BNP leader arrested on the way to the rally on October 26 died at Kashimpur Jail,-0.1,negative,0
+513,India-Pakistan in practice before the much-awaited fight,0.0,negative,0
+514,Matoyara Shakib in the joy of the rest of the practice,0.8,positive,1
+515,"The first four of the World Cup, the first six, the first wicket",0.25,positive,1
+516,Toss starts with the fury of the World Cup field fight,0.0,negative,0
+517,The World Cup begins with 'Captain Day',0.0,negative,0
+518,"Someone is catching fish on the streets of Chittagong, some are swimming",0.6,positive,1
+519,Flood,0.0,negative,0
+520,DHEU unveils trendy winter collection with a touch of western fashion,0.3,positive,1
+521,Making perfectly spicy peanut butter noodles,1.0,positive,1
+522,Does parenthood introduce problems in marriage?,0.0,negative,0
+523,Want healthy skin? Consider eating these special foods,0.4285714285714286,positive,1
+524,Passion for exploration: My personal journey,0.0,negative,0
+525,Start your married life with elegant furnishing,0.375,positive,1
+526,Beyond gender norms: Nurse Hochemin Islam's stand for transgender equality,0.0,negative,0
+527,Embracing facial hair: The significance of No-Shave November,0.0,negative,0
+528,"Destination diaries: Unveiling the charms of New York, Toronto, and London",0.13636363636363635,negative,0
+529,Aarong Earth Essential Oils: Your personal nature retreat in a bottle,0.0,negative,0
+530,Moner Bondhu spearheads training under UNDP’s pioneering initiative,0.0,negative,0
+531,Climb every mountain or ride every wave? The ultimate traveller’s dilemma!,0.0,negative,0
+532,Is your relationship healthy or overly possessive?,0.5,positive,1
+533,Why millennials find traditional grocery runs a chore,0.0,negative,0
+534,Rollercoaster romance: Navigating love's emotional highs and lows,0.25,positive,1
+535,Urban tales: Asia's 5 most spellbinding streets,0.25,positive,1
+536,Why do men keep their guard up?,0.0,negative,0
+537,Secrets to youthful skin from the world’s oldest beauty adviser,0.0,negative,0
+538,GTA 6 trailer to be released on December 5,0.0,negative,0
+539,Dr Razia receives OPCW-The Hague Award as the first Bangladeshi,0.25,positive,1
+540,Saiful Islam from Bangladesh qualifies for official Street Fighter 6 tournament,0.0,negative,0
+541,ChatGPT turns 1 year old,0.1,negative,0
+542,"Meet BharatGPT, the Indian alternative of ChatGPT",0.0,negative,0
+543,Here’s how to find your Spotify Wrapped,0.0,negative,0
+544,GTA trilogy coming to Netflix on December 14,0.0,negative,0
+545,PM to take charge of Science Ministry; Palak to head Posts and Telecom,0.0,negative,0
+546,Starlink satellite units to be established on the Gaza Strip with Israeli approval,0.0,negative,0
+547,"The 'right-to-repair' movement, explained",0.0,negative,0
+548,How to update your birth certificate online,0.0,negative,0
+549,Advertising overload in metro rail: a lesson for marketers,0.0,negative,0
+550,The curious case of killer robots,-0.1,negative,0
+551,How to file your income tax online,0.0,negative,0
+552,What is TakaPay card and how does it work?,0.0,negative,0
+553,OpenAI likely to deny board seat to Microsoft: report,0.0,negative,0
+554,Bangladeshi Sakib Jamal on Forbes 30 under 30 list,0.0,negative,0
+555,CrackPlatoon launches commercial EV charging station at Dhaka,0.0,negative,0
+556,250cc Bajaj Pulsar N250 launched in Bangladesh,0.0,negative,0
+557,Jack Ma launches new pre-packaged food company,0.13636363636363635,negative,0
+558,Pathao co-founder Elius’ new startup raises USD 3.8 mln,0.13636363636363635,negative,0
+559,Bangladeshi startup Drutoloan raises USD 125k in pre-seed round,-0.2,negative,0
+560,Orange Corners Bangladesh hosts investor meet,0.0,negative,0
+561,Cybersecurity company EIC selected for Stanford seed program,0.0,negative,0
+562,ShareTrip launches ST Pay; gets new round of investment,-0.03181818181818183,negative,0
+563,Edtech startup Interactive Cares raises $100k funding,0.0,negative,0
+564,Startup Bangladesh to invest Tk 100cr in 46 startups,0.0,negative,0
+565,"MySpace, Google+, Vine: How did they die?",0.0,negative,0
+566,"How to look for jobs in X, formerly Twitter",0.0,negative,0
+567,"Google introduces Lyria, the music-generating AI model",0.0,negative,0
+568,Meta unveils new AI-powered creative tools for Facebook and Instagram,0.3181818181818182,positive,1
+569,4 websites to track cyclone Midhili,0.0,negative,0
+570,"Samsung develops ChatGPT like AI tool that generates texts, images",0.0,negative,0
+571,What to do if your Facebook account is hacked?,0.0,negative,0
+572,Amazon unveils new AI chip for training AI,0.13636363636363635,negative,0
+573,OPPO launches A18 in Bangladesh,0.0,negative,0
+574,What is a virtual RAM? Here's the truth,0.0,negative,0
+575,Infinix Smart 8 now available in Bangladesh,0.30714285714285716,positive,1
+576,Infinix unveils two new laptops in Bangladesh,0.13636363636363635,negative,0
+577,Realme GT5 240W: The ultra-fast charging powerhouse,0.0,negative,0
+578,Degree or coding skills not a must to get hired by Apple: Tim Cook,0.0,negative,0
+579,Things you need to know before buying Intel motherboards,0.0,negative,0
+580,How to choose the right Intel motherboard for your PC,0.2857142857142857,positive,1
+581,Cybersecurity awareness month: A spotlight on emerging threats and strategies,0.0,negative,0
+582,"Here's how you can make audio/video calls on X, formerly Twitter",0.0,negative,0
+583,How to avoid 'Your account has been reported' Facebook scam,0.0,negative,0
+584,How to speed up your old computer,0.1,negative,0
+585,Apple iphone Event in 12 Minutes,0.0,negative,0
+586,Developing Games in Bangladesh,0.0,negative,0
+587,Augmenting Schools - AR Learning,0.0,negative,0
+588,Data Thieves - Stolen Identity,0.0,negative,0
+589,iPhone 15 to be released officially on September 12,0.0,negative,0
+590,Why should you use eSIM?,0.0,negative,0
+591,$5 billion export from ICT industry by 2025?,0.0,negative,0
+592,What will solve the complications in e-commerce deliveries?,0.0,negative,0
+593,Grameenphone's Club Lumière: Celebrating human stories,0.0,negative,0
+594,"Three firms spending Tk 1,000cr on first private submarine cable",0.125,negative,0
+595,E-bike rental service Skoot launched in Sylhet,0.0,negative,0
+596,What is the election app and how to use it?,0.0,negative,0
+597,Farid Islam to represent Bangladesh in Global Esports Games 2023,0.0,negative,0
+598,Celebrating digital triumph: e-Commerce Movers Award (eCMA) 2023,0.0,negative,0
+599,9 news portals and 8 online newspapers granted registration,0.0,negative,0
+600,Sam Altman fires board that fired him,0.0,negative,0
+601,"Forbes ranks Beximco, Square Pharma in Asia's Top 200 companies",0.5,positive,1
+602,Plastic for bread,0.0,negative,0
+603,Dhaka’s air 5th most polluted in the world this morning,0.5,positive,1
+604,Dhaka’s air 2nd most polluted in the world this morning,0.25,positive,1
+605,Dhaka’s air most polluted in the world Friday morning,0.5,positive,1
+606,Two brick kilns demolished in Lalmonirhat,0.0,negative,0
+607,Factories dumping wastes in reserve forest,-0.2,negative,0
+608,Dhaka air 3rd worst in the world this morning,-0.5,negative,0
+609,Bangladesh now has 204 'green' factories in RMG sector,-0.2,negative,0
+610,PM conferred Asia Climate Mobility Champion Leader Award,0.0,negative,0
+611,COP28: UAE launches new $30 billion climate investment fund,0.13636363636363635,negative,0
+612,PM for putting climate change victims in charge of fighting impact,0.0,negative,0
+613,CCP28 Climate Summit: Loss and damage fund launched,0.0,negative,0
+614,COP28 launches climate 'loss and damage' fund,0.0,negative,0
+615,German govt loses key climate case ahead of COP28,-0.09999999999999999,negative,0
+616,Pratapnagar’s climate woes never end,0.0,negative,0
+617,"Zilla Parishad, Habiganj: Bapa protests move to fell 77 trees",0.0,negative,0
+618,What happens at a COP climate summit?,0.0,negative,0
+619,Early career job hopping: Why do fresh graduates do it and how is it perceived by employers?,0.2,positive,1
+620,University promises permanent campus in 2 years for 10 years in a row,0.0,negative,0
+621,BRAC University's move to Merul Badda: Students reflect on Mohakhali memories,0.0,negative,0
+622,The Eras experience,0.0,negative,0
+623,Is it worthwhile to drop a semester?,0.5,positive,1
+624,How to get your HSC answer scripts rechecked [Update 2023],0.0,negative,0
+625,JnU gets first female VC,0.125,negative,0
+626,Starting a degree in Economics? A teacher tells you what to expect,0.0,negative,0
+627,Private Universities Paving the Path for the Bangladeshi Youth,0.0,negative,0
+628,When should you pursue a Master’s degree?,0.0,negative,0
+629,Everything you need to know about GMAT Focus,0.0,negative,0
+630,"South Asia university ranking, 2024: DU ranked 19th, Buet 29th",0.0,negative,0
+631,Picking your major: A case for Anthropology,0.0625,negative,0
+632,What it takes to get into product management in Bangladesh,0.0,negative,0
+633,How to communicate with clients online,0.0,negative,0
+634,What you need to know about landing an internship before graduation,0.0,negative,0
+635,Transitioning from Classroom to Workplace,0.0,negative,0
+636,What beginners should know about competitive programming,0.0,negative,0
+637,Skills you need to build a successful career in tech,0.75,positive,1
+638,The Case for Science Communication and Science Writing,0.0,negative,0
+639,Learning English: A guide that doesn’t involve books,0.0,negative,0
+640,"Interview with Arun Rajamani, Managing Director, Cambridge University Press and Assessment, South Asia",0.0,negative,0
+641,Exploring the world of literary theory,0.1,negative,0
+642,Making our city beautiful,0.85,positive,1
+643,In conversation with Professor Imran Rahman,0.0,negative,0
+644,"In conversation with Manas Singh, CEO of STS Group",0.0,negative,0
+645,In conversation with Team Bangladesh – Battle of Minds 2022,0.0,negative,0
+646,Elevating Healthcare: SUB's Department of Public Health hosts successful seminar on professional development,0.2833333333333333,positive,1
+647,"NSU's SIPG launches new book on “SDGs in South Asia: A Comparative Study of Bangladesh, Nepal, and Sri Lanka”",0.13636363636363635,negative,0
+648,"Masterclass on ""Collaborating with a Film Crew"" held at ULAB",0.0,negative,0
+649,MoU signing between IUBAT and HA-MEEM Group,0.0,negative,0
+650,AIUB organises conference on English Language and Literature in collaboration with TESOL Society of Bangladesh,0.0,negative,0
+651,Unilever Bangladesh celebrates the Grand Finale of the 14th BizMaestros business competition,0.5,positive,1
+652,Pearson Edexcel host Principal Network Meet 2023 in Dhaka,0.0,negative,0
+653,The implications of grade boundaries on students,0.0,negative,0
+654,Why campuses are important for university students,0.4,positive,1
+655,What to expect from a Communications degree,0.0,negative,0
+656,The importance of counselling in universities,0.0,negative,0
+657,"Letters from readers – July 20, 2023",0.0,negative,0
+658,The lives of medical students,0.0,negative,0
+659,How political instability affects students,0.0,negative,0
+660,Why must there be a mandatory minimum university attendance?,0.0,negative,0
+661,Was the six-month semester a good idea for private universities?,0.35,positive,1
+662,Why there’s a lack of English medium students applying to public universities,0.0,negative,0
+663,The BCS obsession of public university students,0.0,negative,0
+664,Should menstrual leaves be issued in educational institutions?,0.25,positive,1
+665,Are private universities ready for a two-semester system?,0.1,negative,0
+666,"Letters from readers – November 23, 2023",0.0,negative,0
+667,Returning to Haifa – A tale of despair and hope amid the Palestinian catastrophe,0.0,negative,0
+668,Kid who can draw surprised it's not enough for an Architecture degree,0.05,negative,0
+669,BBA student mistakes normal human interaction for networking,0.075,negative,0
+670,Hell’s Paradise: A fantastic gateway to the world of dark fantasy shounen,0.125,negative,0
+671,The Poetry of Streets,0.0,negative,0
+672,Mitski's land is inhospitable and so are we,0.0,negative,0
+673,NBR working to address limitations,0.0,negative,0
+674,"SMART, the benchmark interest rate, rises at fastest pace",0.21428571428571427,positive,1
+675,Wheat prices climb after forex shock,0.0,negative,0
+676,Banks asked to give default loan info of candidates,0.0,negative,0
+677,Imports thru land ports fell 13% in FY23,0.0,negative,0
+678,Economy held hostage by ongoing unrest,0.0,negative,0
+679,Containerised cargo movement ‘normal’: ICDs,0.15,negative,0
+680,Matin Spinning declares 40% cash dividend,0.0,negative,0
+681,Forex reserve shrinks by $120m in a week,0.0,negative,0
+682,Tax collection falls short of IMF loan condition,0.0,negative,0
+683,Airfreight in a downspin due to lower trade,-0.125,negative,0
+684,BB withdraws interest rate spread limit,0.0,negative,0
+685,DSE gets new director,0.13636363636363635,negative,0
+686,"Oil steady; market eyes OPEC+ meet, weak demand indicators",-0.10416666666666667,negative,0
+687,ADB to give Bangladesh $1 billion loan for five projects,0.0,negative,0
+688,Chinese firms set for best earnings growth in seven years in 2024,0.5,positive,1
+689,Bangladeshi couple in US gets recognition,0.0,negative,0
+690,Chinese car sales boom in Russia levels off,0.0,negative,0
+691,Bangladesh Bank hikes repo rate by 50 basis points,0.0,negative,0
+692,India's Tata Technologies' IPO garners bids worth over $18 billion,0.3,positive,1
+693,Tesla to invest up to $2 billion for Indian factory,0.0,negative,0
+694,Bangladesh makes good progress in protecting IP rights,0.7,positive,1
+695,iFarmer strikes deal with Prime Bank,0.0,negative,0
+696,E-payment mandatory for depositing VAT of Tk 10 lakh and above,0.0,negative,0
+697,Interest rates for NBFIs rise further,0.0,negative,0
+698,New Yamaha bikes hit market,0.13636363636363635,negative,0
+699,GPH Ispat inks deal with ABC Real Estates,0.2,positive,1
+700,National Housing gets BSEC nod for Tk 374cr bond,0.0,negative,0
+701,Trade delegation to visit Thailand,0.0,negative,0
+702,Is Bangladesh going towards a deep economic crisis?,0.1,negative,0
+703,Who will benefit from WTO's duty benefit extension?,0.0,negative,0
+704,"How can Bangladesh resolve economic, political problems?",0.1,negative,0
+705,Where can the national debit card 'Taka Pay’ be found?,0.0,negative,0
+706,Khulna farmers prefer cultivating beans instead of shrimps,0.0,negative,0
+707,Knowing what you don’t know,0.0,negative,0
+708,Premier Bank opens Gulshan Avenue branch,0.0,negative,0
+709,Southeast Bank wins Mastercard Excellence Awards,0.3,positive,1
+710,Islami Bank wins Mastercard Excellence Awards,0.3,positive,1
+711,MCCI elects new office-bearers,0.13636363636363635,negative,0
+712,HC scraps Labour Appellate Tribunal verdict on Grameen Kalyan's profit sharing,0.0,negative,0
+713,Aftab Automobiles clocks 300% profit growth,0.0,negative,0
+714,"Labour Issues: Govt, businesses play down prospects of US trade penalties",-0.15555555555555559,negative,0
+715,HSBC recognised by Euromoney,0.0,negative,0
+716,Brac Bank wins Mastercard Excellence Awards,0.3,positive,1
+717,From ‘girl next door’ to multifaceted star: 10 years of Safa Kabir,0.0,negative,0
+718,Inside Saba's world,0.0,negative,0
+719,Dhaka’s burgeoning concert industry: Organisers scramble to find their niche,0.0,negative,0
+720,From Santiniketan to ‘Shondhatara’,0.0,negative,0
+721,Mahfuz Ahmed’s stunning reincarnation,0.5,positive,1
+722,A fire kindles inside Konal,0.0,negative,0
+723,Ghaashphoring Choir: A family of harmonies,0.0,negative,0
+724,Tanzika Amin’s remarkable return,0.75,positive,1
+725,Urbee flies high,0.16,negative,0
+726,The future is bright for Roshan,0.35000000000000003,positive,1
+727,Sabila Nur's all round brilliance,-0.2,negative,0
+728,Sadia aims for the stars,0.0,negative,0
+729,The Siam sensation continues,0.0,negative,0
+730,Barshon exudes brilliance,0.0,negative,0
+731,Not just a public figure,0.0,negative,0
+732,Stellar Sadia,0.25,positive,1
+733,Fashion designer Paco Rabanne dies at 88,0.0,negative,0
+734,Black War: Better than Mission Xtreme?,0.16666666666666669,negative,0
+735,Crime and trial,0.0,negative,0
+736,‘Animal’ not releasing in Bangladesh today,0.0,negative,0
+737,Cox's Bazar Express sets off on first journey,0.25,positive,1
+738,EC asks home ministry to transfer all OCs,0.0,negative,0
+739,Kissinger should have apologised to people of Bangladesh: Momen,0.0,negative,0
+740,For the love of fountain pens,0.5,positive,1
+741,‘King’s parties’ rounded up for polls,0.0,negative,0
+742,Aamar Bond not IFIC’s,0.0,negative,0
+743,A son of the soil,0.0,negative,0
+744,Cases under DSA: ‘It feels unreal to be free’,0.4,positive,1
+745,Bail hard to come by for BNP ranks,-0.2916666666666667,negative,0
+746,72pc of the youth feel unsafe to express opinions: survey,0.0,negative,0
+747,Hosting a spooky sleepover with friends,0.0,negative,0
+748,World's richest 1pc emit as much carbon as poorest 66pc,0.2,positive,1
+749,Raushan won’t run for JS,0.0,negative,0
+750,BNP leader Shajahan to contest polls with AL ticket,0.0,negative,0
+751,Violation of polls code: AL's Dhaka-19 candidate show-caused,0.0,negative,0
+752,Doctors Without Borders targeted by Israel-Hamas war misinformation,0.0,negative,0
+753,Curb social media rumors,0.03333333333333333,negative,0
+754,Spin doctors go into overdrive ahead of polls,0.0,negative,0
+755,"False claims on Israel-Hamas war mushroom online, put focus on Musk's X",-0.4000000000000001,negative,0
+756,Photocard with comment of Dr Yunus on Israel is fake,-0.5,negative,0
+757,Nobel winner Amartya Sen's daughter denies rumours of his death,0.0,negative,0
+758,Photocard with Mirza Fakhrul's comment on Palestine is fake,-0.5,negative,0
+759,Fact check: AI doctors on social media spreading fake claims,-0.23333333333333334,negative,0
+760,Today's Gallery (2023.12.02),0.0,negative,0
+761,Today's Galllery (2023.12.01),0.0,negative,0
+762,Today's Gallery (2023.11.30),0.0,negative,0
+763,Todayh's Gallery (2023.11.29),0.0,negative,0
+764,Today's Gallery (2023.11.28),0.0,negative,0
+765,Today's Gallery (2023.11.27),0.0,negative,0
+766,Today's Gallery (2023.11.26),0.0,negative,0
+767,Today's Gallery (2023.11.25),0.0,negative,0
+768,Today's Gallery (2023.11.24),0.0,negative,0
+769,Cummins will remember ‘quiet as library’ Ahmedabad crowd in deathbed,0.0,negative,0
+770,Akram blames ‘battle of words’ for World Cup disaster,0.0,negative,0
+771,Disney says 518 mln Indian users watched cricket World Cup on TV,0.0,negative,0
+772,Shami tells ex-Pakistan players to ‘mend their ways’,0.0,negative,0
+773,"Record 1.25 million fans attended World Cup 2023, says ICC",0.0,negative,0
+774,Five risky calls that won Australia a World Cup,0.0,negative,0
+775,How keeping a cool Head paid off,0.35,positive,1
+776,India the ‘real chokers’?,0.2,positive,1
+777,India clinch T20 series v Australia to soothe World Cup wound,0.0,negative,0
+778,No Shakib or Liton in IPL draft,0.0,negative,0
+779,Taijul’s ‘regret’ after ODI exclusion,0.0,negative,0
+780,Patel praises Bangladesh spinners,0.0,negative,0
+781,Australia opt to bowl against India in 4th T20,0.0,negative,0
+782,Fellaini’s emotional farewell to China,0.0,negative,0
+783,"Onana among Premier League's best goalkeepers, insists Ten Hag",0.5,positive,1
+784,Quarters lineup locked in after Kings-Ctg Abahani stalemate,0.0,negative,0
+785,Tahura brace helps Bangladesh to 3-0 win over Singapore,0.8,positive,1
+786,Kyrgios thanks 'big supporter' Murray,0.1,negative,0
+787,Nadal to return in Brisbane,0.0,negative,0
+788,Youth Group win Standard Chartered Cup 2023,0.4,positive,1
+789,KSRM 9th Golf Tournament held in Chattogram,0.0,negative,0
+790,'Special feeling' to win Davis Cup for Italy: Sinner,0.5785714285714286,positive,1
+791,Sinner steers Italy to Davis Cup glory over Australia,0.0,negative,0
+792,Bagnaia retains MotoGP world title,0.0,negative,0
+793,'I take responsibility' for Serbia defeat: Djokovic,0.0,negative,0
+794,Bangladesh suffer crushing 137-run defeat against England,0.4,positive,1
+795,Death or glory? World Cup anchors changing game of ODI,-0.4,negative,0
+796,Hadudu for above 60-year-olds in Manikganj,0.0,negative,0
+797,Bangladesh gear up for Asia Cup Super 4,0.3333333333333333,positive,1
+798,Bangladesh’s Asia Cup mission gets underway with Sri Lanka encounter,0.0,negative,0
+799,Morsalin screamer rescues draw against Lebanon,0.0,negative,0
+800,Captains’ photoshoot ahead of blockbuster final,0.0,negative,0
+801,Tendulkar gives 'pep talk' to Afghanistan team,0.0,negative,0
+802,Shakib stumped by 'worst' World Cup display,-1.0,negative,0
+803,Afghanistan’s win for the ages in pictures,0.8,positive,1
+804,Shakib trains in Mumbai but will he lead against the Proteas on Tuesday?,0.0,negative,0
+805,Tigers start training in Pune ahead of India clash,0.0,negative,0
+806,"Soumya picked for NZ tour for his experience, says Bashar",0.0,negative,0
+807,West Indies' cricketer Dowrich announces international retirement at 32,0.0,negative,0
+808,Players approached to fix matches in India's I-League,0.0,negative,0
+809,Bangladesh need three wickets on final day,0.0,negative,0
+810,"Liverpool power into last 16, Brighton reach knockouts",0.0,negative,0
+811,Kings’ boss Hasan to act as PLMC chairman,0.0,negative,0
+812,Can Tigers cash in this time?,0.0,negative,0
+813,Dominica pull out of hosting T20 World Cup games,0.0,negative,0
+814,‘Clinical’ Shanto puts Tigers in command,0.0,negative,0
+815,"India's Rohit, SKY and Rahul skippers for South Africa series",0.0,negative,0
+816,Pakistan gunmen kill policeman guarding polio vaccination team,0.0,negative,0
+817,"India's borders with Bangladesh, Pakistan to be completely secure in 2 years: Amit Shah",0.4,positive,1
+818,"El Candidate Mustafiz, Supporters 'Attack' Youth",0.0,negative,0
+819,Justice Shahabuddin Ahmed Park becomes Bangladesh's first free Bangla book reading destination,0.325,positive,1
+820,How independent learning can enhance the academic performance of university students,0.0,negative,0
+821,Making a study playlist that works for you,0.0,negative,0
+822,Albums that feel like a goodbye,0.0,negative,0
+823,Paving the way for inclusivity,0.0,negative,0
+824,Finding nutritional food on campus remains a challenge,0.0,negative,0
+825,Internships can help high school students prepare for a brighter future,0.08,negative,0
+826,A guide to your first visit to the gynaecologist,0.25,positive,1
+827,“Teaching Literature and Interdisciplinarity”: int’l conference at EWU explores the importance of language and literature,0.0,negative,0
+828,Experiencing Bangla literature as someone bad at Bangla,-0.6999999999999998,negative,0
+829,Kinds of toxic masculinity you might not know about,0.0,negative,0
+830,Are you the micromanager in your group project?,0.0,negative,0
+831,The lingering effects of familial unemployment on young people,0.1,negative,0
+832,Managing friendships in an open-credit system,0.0,negative,0
+833,UCB commemorates graduates at Monash College graduation convocation 2023,0.0,negative,0
+834,Reuniting with your long-distance friends,0.0,negative,0
+835,How academic writing took a toll on my creative writing skills,0.25,positive,1
+836,Morocco: a timeless wonder,0.0,negative,0
+837,Meghalaya land of majestic waterfalls,0.0,negative,0
+838,Around the world on a Vespa: The ‘no-plan’ nomadic life,0.0,negative,0
+839,The Galapagos: The land of evolution,0.0,negative,0
+840,The yellow days in Hanoi,0.0,negative,0
+841,Lobhachhara and the great Nanka,0.8,positive,1
+842,Dzo Zongo East Mission accomplished,0.2,positive,1
+843,Two six thousanders in two days,0.0,negative,0
+844,A memorable journey to Nafakhum,0.5,positive,1
+845,American Wilderness A Climb in the Rockies,0.0,negative,0
+846,Nilgiri: the land of clouds,0.0,negative,0
+847,Kashmir a heaven on earth,0.0,negative,0
+848,Amazing Zhangjiajie Exploring the Avatar Mountains,0.6000000000000001,positive,1
+849,"Boi Para, Rain, and the Smell of Old Books",0.1,negative,0
+850,Chadar trek: walking on a frozen river,0.0,negative,0
+851,The treasures of Buran Island,0.0,negative,0
+852,Jerusalem the land of Abrahamic religions,0.0,negative,0
+853,Mystical Spiti Valley: A road trip to remember,0.0,negative,0
+854,Featured,0.0,negative,0
+855,Brushstrokes of solidarity: Fundraiser exhibition sheds light on war-torn Palestine,0.4,positive,1
+856,Marking two decades of ‘Kal Ho Naa Ho’s’ exuberance,0.0,negative,0
+857,Universities offer courses on Taylor Swift's influence on music and culture,0.0,negative,0
+858,Swagata to take director’s chair,0.0,negative,0
+859,Mondera ready for silver screen,0.2,positive,1
+860,Daraz presents A Peek Inside with Sadi ft.Xefer,0.0,negative,0
+861,Daraz presents A Peek Inside with Sadi ft. Yash Rohan,0.0,negative,0
+862,Daraz presents A Peek Inside with Sadi - Pritom Hasan,0.0,negative,0
+863,Moments from the country's premiere OTT event,0.0,negative,0
+864,Farooki gets emotional as his colleagues praise ‘Autobiography’,0.0,negative,0
+865,Anya Taylor-Joy and Chris Hemsworth clash in 'Furiosa' trailer,0.0,negative,0
+866,I was touched to see the fan in a wheelchair: Mehazabien Chowdhury,0.0,negative,0
+867,China is interested in releasing Bangla films: Raihan Rafi,0.25,positive,1
+868,Preparing myself for one and a half months: Azmeri Haque Badhan,-0.16666666666666666,negative,0
+869,Ranveer Singh honours 'idol' Johnny Depp while receiving award from Sharon Stone,0.0,negative,0
+870,Taylor Swift's publicist debunks secret marriage rumours,-0.4,negative,0
+871,Beyoncé and Taylor Swift shine at ‘Renaissance’ premiere,0.0,negative,0
+872,Jungkook and Usher take music charts by storm with their collaborative remix,0.0,negative,0
+873,RTV announces winner of ‘Young Star Season 2’,0.1,negative,0
+874,'Sadhu Mela’: A celebration of cultural diversity,0.1,negative,0
+875,Tina Knowles criticises online hate over Beyoncé's platinum hair,-0.8,negative,0
+876,2023 MAMA Awards: BTS wins Worldwide Fans' Choice and Icon of the Year,0.3,positive,1
+877,Bangladesh Group Theatre Federation celebrates 43rd anniversary,0.0,negative,0
+878,Baggat to Honor Mancha Sarathi Ataur Rahman,0.0,negative,0
+879,A theatrical triumph in East London: 'Prithok Palonko' mesmerises a packed house,0.0,negative,0
+880,Nri Prangon set to stage ‘Adbhut Bhaskarya’ on Tuesday,0.0,negative,0
+881,"Subhashree Ganguly, Raj Chakraborty blessed with baby girl",0.0,negative,0
+882,Bollywood’s race to make films on Uttarakhand’s Silkyara tunnel,0.0,negative,0
+883,Arijit Singh to voice song penned by Mamata Banerjee,0.0,negative,0
+884,Unscripted dating show based on ‘Sex and the City’ in development with creator Candace Bushnell,0.0,negative,0
+885,'Many colors of colors' set are Air in Mashranga Tomorao,0.5,positive,1
+886,Sebastian Stan to star as young Donald Trump in upcoming biopic,0.1,negative,0
+887,‘Berlin’ trailer unveils intriguing look at ‘Money Heist’ prequel,0.30000000000000004,positive,1
+888,Indian audience stuns Mosharraf Karim in West Bengal drama festival,0.0,negative,0
+889,"'Leave The World Behind': Strangers, danger and layers, says Julia Roberts",-0.4,negative,0
+890,Randeep Hooda and Lin Laishram share glimpse of their Meitei wedding ceremony,0.0,negative,0
+891,Consent to marriage and best interest of girls,1.0,positive,1
+892,Opportunities and Challenges to Inclusive Education for Children with Disabilities in Bangladesh,0.0,negative,0
+893,Thinking beyond sanitation: Transitioning to a sustainable urban water cycle,0.0,negative,0
+894,Bangladesh Family Planning Programme: What women and girls want matters,0.0,negative,0
+895,Breathing clean: Protecting lives from air pollution,0.3666666666666667,positive,1
+896,Progressive Taxation in Bangladesh Why and How?,0.0,negative,0
+897,Prevention of Child Marriage in remote and marginalised chars of northern Bangladesh,-0.1,negative,0
+898,10 years since Rana Plaza tragedy,0.0,negative,0
+899,Transforming Agrifood Systems to Improve Nutrition in Secondary Cities: The Role of Women,-0.3,negative,0
+900,"Changing mindsets, changing lives: The power of social norms programming in ending child marriage",0.03333333333333333,negative,0
+901,Kidney patients are at higher risk of unexpected disasters,0.175,negative,0
+902,Skilling Bangladesh: challenges and possibilities,0.0,negative,0
+903,Rohingya Crisis Response in Bangladesh: Is a strategic shift from the current approach needed?,0.0,negative,0
+904,Policy actions to improve SRH services for adolescents and youth: Beyond gaps and challenges,0.0,negative,0
+905,How girls are realizing their potentials: Opportunities and challenges,0.0,negative,0
+906,Dissemination Workshop on Strengthening Family Planning through Advocacy: Learnings and Opportunities,0.0,negative,0
+907,"Saving mother nature, saving us",0.0,negative,0
+908,Ensuring the rights of small-scale fishers for the sustainable fisheries sector in Bangladesh,0.0,negative,0
+909,Biofortified crops: Connecting value chain actors and policymakers in Bangladesh,0.0,negative,0
+910,Understanding adolescent pregnancy in Bangladesh,0.0,negative,0
+911,Effectiveness of Flood Early Warning System in Building Climate Resilience,0.1,negative,0
+912,Financing Loss and Damage and Displacement - A Global Call for Climate Justice,0.0,negative,0
+913,Violence against female sex workers in Dhaka city,0.0,negative,0
+914,SDGs and Youth in Bangladesh,0.0,negative,0
+915,World Sight Day 2022,0.0,negative,0
+916,Entire committee of Chhatra Odhikar Parishad DU unit resigns,0.0,negative,0
+917,66 schools closed amid flood in Kurigram,-0.1,negative,0
+918,IU student assaulted by ‘BCL men’,0.0,negative,0
+919,Dhaka University Day celebrated,0.35,positive,1
+920,30 hurt in BCL infighting at HSTU,0.0,negative,0
+921,3 probe bodies formed over clashes at CU,0.0,negative,0
+922,'BCL factional clash' breaks out at CU,0.0,negative,0
+923,"Keeping students' faces, ears uncovered: SC upholds DU Bangla dept's move",0.0,negative,0
+924,"15,000 people to get jobs at RCC employment fair",0.7,positive,1
+925,41st BCS results likely this month,0.0,negative,0
+926,6 of the best YouTube channels for learning web development,1.0,positive,1
+927,How ChatGPT’s growth may be affecting young copywriters,0.1,negative,0
+928,The case for studying law,0.0,negative,0
+929,Here are 10 easy ways to earn money online,0.43333333333333335,positive,1
+930,LinkedIn offers 100+ free AI courses: Here’s how to start learning,0.25,positive,1
+931,Equipping Bangladeshi Youth for the Global Job Market,0.0,negative,0
+932,UIU and MIST secure 3rd and 5th position respectively in the Anatolian Rover Challenge,0.13333333333333333,negative,0
+933,IUB alumnus wins NASA grant for next gen space tech battery research,0.15,negative,0
+934,Dhaka University secures 1st and 2nd positions at ICPC Asia Dhaka Regional Contest,0.0,negative,0
+935,BRACU and AIUB rank 9th and 11th respectively in International Rover Challenge 2023,-0.4,negative,0
+936,IUB student wins bronze in Asian Powerlifting Championship,0.15,negative,0
+937,"AIUB, BRACU, and IUT qualify for International Rover Challenge finals",0.0,negative,0
+938,Risking lives to attend classes,0.0,negative,0
+939,Shakil becomes first Bangladeshi to complete the 'Great Himalaya Trail',0.3833333333333333,positive,1
+940,CU campus: Music in the air,0.0,negative,0
+941,What is Shammo doing now?,0.0,negative,0
+942,"Meet Rituraj, the 9-year-old Guinness World Record holder",0.0,negative,0
+943,Why do CS students have to write code by hand?,0.0,negative,0
+944,Exploring the growing field of data science,0.0,negative,0
+945,The issue with A Level grade boundaries this year,0.0,negative,0
+946,Dressed to impress: 5 celeb-inspired bridal looks you can't ignore,0.0,negative,0
+947,Blending style with comfort: Loungewear outfit ideas,0.0,negative,0
+948,Azmeri Haque Badhan dazzles in chic sari blouses,0.0,negative,0
+949,Can’t beat a classic: Why cardigans are your timeless winter wardrobe essentials,0.16666666666666666,negative,0
+950,Biman launches new flight dispatch system,0.13636363636363635,negative,0
+951,Sacred wonders: Top 5 must-visit mosques in South Asia,0.5,positive,1
+952,Prepare for a winter adventure! 5 countries to travel for under Tk 1 Lac,0.0,negative,0
+953,"Private hajj package: Cost reduced by Tk 83,200",0.0,negative,0
+954,Hajj registration begins Nov 15,0.0,negative,0
+955,Oats recipes for a hearty meal,0.0,negative,0
+956,3 easy recipes to satisfy your Diwali mood,0.43333333333333335,positive,1
+957,Where do women fit in during Movember and in men’s health conversations,0.4,positive,1
+958,Why journaling matters,0.0,negative,0
+959,The power of Ayurveda: Fortify your immunity with natural remedies,0.1,negative,0
+960,Why sleep isn’t the only 'shut-eye' men need,0.0,negative,0
+961,Dance your way to fitness: The House of Grooves BD revolutionises weight loss,0.0,negative,0
+962,Yoga's miracle cure: Nauli Kriya and its impact on gut health,0.0,negative,0
+963,High levels of microplastic in salt: Reasons to be concerned,0.16,negative,0
+964,"Comrade, give me a cup!",0.0,negative,0
+965,The colourful cauliflowers of Bangladesh,0.0,negative,0
+966,Shankha Dasgupta: Meet the genius behind Guti,-0.4,negative,0
+967,"Despite charging fees, needs of passengers neglected",0.0,negative,0
+968,Wasfia Nazreen: Don’t let ageism break your spirit,0.0,negative,0
+969,Married man’s dilemma: Why buddies and backpacks take a back seat post-wedding,0.125,negative,0
+970,Challenges of being a sensitive man in the real world,0.15000000000000002,negative,0
+971,Mourning in silence: Why men grieve differently,0.0,negative,0
+972,Manners maketh man: Reviving the charm of etiquette in the ultra-modern era,0.0,negative,0
+973,Skin-savvy shaving: Navigating razors for your skin's sake!,0.0,negative,0
+974,5 things to learn from Virat Kohli to win in your life,0.8,positive,1
+975,Swayambhu: Healing through guided music sessions,0.0,negative,0
+976,5 rules busy couples should follow,0.1,negative,0
+977,Life lessons from Glenn Maxwell to help turn your life around,0.0,negative,0
+978,Gwyneth Paltrow on Brad Pitt’s Le Domaine,0.0,negative,0
+979,"Dengue: 6 more die, 468 hospitalised in a day",0.5,positive,1
+980,Seven more lives lost to dengue,0.5,positive,1
+981,"Dengue: 5 more die, 968 hospitalised in a day",0.5,positive,1
+982,"Dengue: 4 more die, 959 hospitalised in a day",0.5,positive,1
+983,"Dengue deaths cross 1,600",0.0,negative,0
+984,It’s winter but dengue still here,0.0,negative,0
+985,"Dengue Outbreak: 6 more die, 645 get hospitalised",0.5,positive,1
+986,"Dengue: 6 more die, 645 hospitalised in a day",0.5,positive,1
+987,Sugar costlier by Tk 30,0.0,negative,0
+988,Machar Mela from the son -in -law,0.0,negative,0
+989,TCB to sell essentials at subsidised rate in city,0.0,negative,0
+990,590kg govt rice seized from food officer's house in Shariatpur,0.0,negative,0

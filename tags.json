@@ -1,0 +1,86 @@
+{
+    "washingtonpost": {
+        "link": "https://www.washingtonpost.com/"
+    },
+    "politics": {
+        "link": "https://www.washingtonpost.com/politics/"
+    },
+    "opinions": {
+        "link": "https://www.washingtonpost.com/opinions/"
+    },
+    "ukraine-russia": {
+        "link": "https://www.washingtonpost.com/world/ukraine-russia/"
+    },
+    "style": {
+        "link": "https://www.washingtonpost.com/style/"
+    },
+    "national": {
+        "link": "https://www.washingtonpost.com/national/investigations/"
+    },
+    "climate": {
+        "link": "https://www.washingtonpost.com/climate-environment/"
+    },
+    "stripe": {
+        "link": "https://bdnews24.com/stripe"
+    },
+    "recent": {
+        "link": "https://bdnews24.com/recent"
+    },
+    "opinion": {
+        "link": "https://www.usatoday.com/opinion/"
+    },
+    "israel-war-hamas": {
+        "link": "https://www.usatoday.com/news/israel-war-hamas/"
+    },
+    "sports": {
+        "link": "https://www.usatoday.com/sports/"
+    },
+    "International": {
+        "link": "https://thebangladeshtoday.com/?cat=2"
+    },
+    "Sports": {
+        "link": "https://thebangladeshtoday.com/?cat=5"
+    },
+    "Feature": {
+        "link": "https://thebangladeshtoday.com/?cat=6"
+    },
+    "national": {
+        "link": "https://www.daily-sun.com/online/national"
+    },
+    "Economy": {
+        "link": "https://www.daily-sun.com/online/economy"
+    },
+    "entertainment4": {
+        "link": "https://www.daily-sun.com/online/entertainment"
+    },
+    "world": {
+        "link": "https://www.daily-sun.com/online/world"
+    },
+    "sci-tech": {
+        "link": "https://www.daily-sun.com/online/sci-tech"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/news"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/health"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/sports"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/business"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/entertainment"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/culture"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/youth"
+    },
+    "Opinion": {
+        "link": "https://www.thedailystar.net/multimedia"
+    }
+}
